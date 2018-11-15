@@ -11,6 +11,10 @@
 *	Edit this section
 *
 * ======================================================= */
+/*custom settings*/
+.bride{
+  color: #FF847C;
+}
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   font-weight: 400;
